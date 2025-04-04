@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+
+.java{
+    color: red;
+}
+.sql{
+    color: red;
+}
+.react{
+    color: red;
+}
+.active button{
+    opacity: 0.6;
+    height: 50px;
+    background-color: blue;
+    color: aliceblue;
+    width: 100px;
+
+
+}

@@ -1,0 +1,50 @@
+.ques{
+    margin: auto;
+    width: 70%;
+    padding: 20px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    color:  #EEEEEE;
+    border-radius: 20px;
+    background-color: #DC5F00 ;
+}
+.question li{
+    color: #EEEEEE;
+    border: 1px solid #000000;
+    padding: 5px;
+    display: flex;
+    margin: 15px;
+    cursor:pointer;
+}
+.question li:hover{
+    background-color :white;
+    color: black;
+}
+.ques button{
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    background-color:white ;
+    margin: auto;
+}
+.ques button:hover{
+    height: 35px;
+    width: 130px;
+    background-color: #000000;
+    color: #EEEEEE;
+}
+.ss{
+    background-color: pink;
+    color: yellow;
+}
+h1{
+    color: red;
+
+}
+.correct{
+    background-color: green;
+}
+.incorrect{
+    background-color: red;
+}
